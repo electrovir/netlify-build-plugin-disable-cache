@@ -1,6 +1,6 @@
 {
     "name": "netlify-build-plugin-disable-cache",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Wipe all caches during Netlify builds.",
     "keywords": [
         "netlify",
